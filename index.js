@@ -185,4 +185,4 @@ client.on('messageCreate',message=>{
 
 
 
-client.login("OTcxOTc4MTA1OTk0NDk4MDc4.G2yVYa.8P48xKjlNZr8zOfuFf3Clu6ikT0YuksfuTfrZ0")
+client.login("")
