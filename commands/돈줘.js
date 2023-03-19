@@ -1,7 +1,7 @@
 const comma = require("comma-number")
 
 module.exports = {
-    name: "돈받기",
+    name: "돈줘",
     async execute(message) {
         const t = new Date()
         const date = "" + t.getFullYear() + t.getMonth() + t.getDate();
